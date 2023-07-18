@@ -8,7 +8,7 @@
 
 .container{
     max-width: 851px;
-    background-image: url('/Whatsapp-Clone/image/pxfuel.jpg');
+    background-image: url('./image/pxfuel.jpg');
     /* opacity: .7; */
     margin:auto;
     padding: 20px;
