@@ -1,0 +1,112 @@
+/* .logo{
+    text-align: left;
+    display: block;
+    margin:auto;  
+    width: 50px;
+    height:50px;
+} */
+
+.container{
+    max-width: 851px;
+    background-image: url('/Whatsapp-Clone/image/pxfuel.jpg');
+    /* opacity: .7; */
+    margin:auto;
+    padding: 20px;
+    height:70vh;
+    overflow-y: auto;
+    margin-bottom: 4px;
+    border-radius: 32px;
+}
+
+.message {
+    background-color: aquamarine;
+    width:24%;
+    padding: 10px;
+    margin:17px 12px;
+    border:2 px solid black;
+    border-radius:10px;
+} 
+
+.left{
+    width: auto;
+    float: left;
+    clear: both;
+}
+
+.right{
+    width: auto;
+    float:right;
+    clear: both;
+}
+
+.send{
+    margin: 0%;
+    padding: 5px;
+    /* background-color: blue; */
+    /* display: flex; */
+}
+
+#send-container{
+    text-align: center;
+    
+}
+
+#messageinput{
+    width: 427px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 13px;
+}
+
+.btn{
+    width:54px;
+    border: 1px solid black;
+    border-radius: 30px;
+    height: 42px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: rgb(66, 120, 66);
+    color: white;
+}
+body{
+    background: linear-gradient(343deg , #4c4646 ,#65e67c);
+    height: 100vh;
+}
+.app{
+    margin: 15px;
+    display: block;
+    text-align: center;
+    justify-content: center;
+    /* font-family: ; */
+    color: white;
+}
+.disc{
+    text-align: center;
+    /* justify-content: center;
+    display: block; */
+    font-size: 12px;
+    color: white;
+
+}
+.header{
+    border: 2px solid white;
+    background-color: rgb(46, 44, 44);
+    margin-left: 167px ;
+    margin-right: 167px;
+    border-radius: 14px;
+}
+#emojiButton{
+    margin-left: -44px;
+    overflow: hidden;
+    margin-right: 10px;
+    border: 1px solid white;
+    background-color: white;
+    height: 27px;
+    width: 30px;
+    cursor: pointer;
+    
+}
+.vlogo{
+    border: 2px solid red;
+}
